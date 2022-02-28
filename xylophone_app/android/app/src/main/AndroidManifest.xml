@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="io.blackfoot.xylophone_app">
    <application
-        android:label="xylophone_app"
+        android:label="Xylophone App"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

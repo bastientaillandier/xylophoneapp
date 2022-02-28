@@ -1,4 +1,4 @@
-package com.example.xylophone_app
+package io.blackfoot.xylophone_app
 
 import io.flutter.embedding.android.FlutterActivity
 
